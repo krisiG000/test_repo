@@ -11,8 +11,8 @@ private:
 public:
     arbin()
     {
-        this->emri = "armando";
-        this->mbiemri = "preci";
+        this->emri = "pashk";
+        this->mbiemri = "marku";
         this->mosha = 23;
     }
     arbin(string emri,string mbiemri,int mosha)
